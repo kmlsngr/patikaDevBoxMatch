@@ -5,4 +5,5 @@ public class Main {
         Ring r = new Ring(marc,alex , 90 , 100);
         r.run();
     }
+
 }
